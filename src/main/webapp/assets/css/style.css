@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.form-control{
+	background: linear-gradient(gray, #C1C1C1); 
+	color: black; 
+	font-weight: bold; 
+}
+
+.btn{
+	font-weight: bold; 
+	font-style: italic;
+	font-family: "Oswald", sans-serif;
+	
+}
+
+.textlabe {
+	font-family: "Oswald", sans-serif;
+}
+
+.title{
+	font-family: "Oswald", sans-serif;
+}
+
+.oswald-bold {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bebas-neue-regular {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
